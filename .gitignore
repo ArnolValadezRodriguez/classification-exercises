@@ -4,6 +4,8 @@ env.py
 __pycache__
 titanic.csv
 iris.csv
+*.zip
+
 
 # env.py
 # .ipynb_checkpoints/
@@ -11,6 +13,6 @@ iris.csv
 # .DS_Store
 # Thumbs.db
 # .vscode/
-# *.csv
+*.csv
 # *.json
 # *.xlsx
