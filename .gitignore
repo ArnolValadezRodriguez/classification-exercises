@@ -15,4 +15,4 @@ iris.csv
 # .vscode/
 *.csv
 # *.json
-# *.xlsx
+*.xlsx
