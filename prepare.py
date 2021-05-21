@@ -9,6 +9,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from env import host, user, password
 from pydataset import data
+from sklearn.model_selection import train_test_split
+from sklearn.impute import SimpleImputer
 
 def prep_iris(df):
     '''
